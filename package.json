@@ -46,7 +46,7 @@
     "jwt-simple": "^0.5.1",
     "lodash": "4.16.4",
     "mongo-find-by-ids": "^1.0.0",
-    "mongodb": "^2.2.11",
+    "mongodb": "^3.1.13",
     "nodeify": "^1.0.1",
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1",
