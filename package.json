@@ -44,7 +44,7 @@
     "graphql-subscriptions": "0.2.0",
     "graphql-tools": "^0.8.2",
     "jwt-simple": "^0.5.1",
-    "lodash": "4.16.4",
+    "lodash": "4.17.21",
     "mongo-find-by-ids": "^1.0.0",
     "mongodb": "^2.2.11",
     "nodeify": "^1.0.1",
